@@ -1,0 +1,34 @@
+{
+  "tareas": [
+    {
+      "id": 1,
+      "text": "Terminar tarea angular",
+      "day": "Diciembre 25",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "terminar lógica",
+      "day": "Diciembre 30",
+      "reminder": true
+    },
+    {
+      "text": "realizar investigacion de Java",
+      "day": "Diciembre 25",
+      "reminder": true,
+      "id": 6
+    },
+    {
+      "text": "terminar base de datos",
+      "day": "mañana",
+      "reminder": false,
+      "id": 9
+    },
+    {
+      "text": "hacer sql",
+      "day": "mañana",
+      "reminder": false,
+      "id": 10
+    }
+  ]
+}

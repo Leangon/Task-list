@@ -3,7 +3,7 @@ import { Task } from "./Task";
 export const TASK: Task[] = [
     {
         id: 1,
-        text: "terminar tares angular",
+        text: "Terminar tarea angular",
         day: "Agosto 5 a las 12",
         reminder: true 
     },
